@@ -1,0 +1,1 @@
+print(input("Write something here: ").replace(" ", "..."))
